@@ -1,0 +1,1 @@
+This project is about following the best practices while building login and registration forms in the MERN stack.
